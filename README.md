@@ -1,2 +1,2 @@
-# rainbow.js
+# Rainbow
 Rainbow animation on any webpage.
